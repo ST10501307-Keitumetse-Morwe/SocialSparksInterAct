@@ -8,3 +8,5 @@ This purpsoe of this app is to help Cora or anyone in that fact who struggles wi
 I used GitHub Actions to run my workflow so that my app is used to the fullest of its abilities and that it was built in the correct way.GitHub ensure that itruns smoothly.
 
 Enjoy interactiong with the world outside with a simple click.
+
+Here is the link to a visual summary on the use and look of the application: https://youtube.com/shorts/UVzUkAjOUms?si=Y1p6llmV4X_pJKZzy
